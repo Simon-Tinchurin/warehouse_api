@@ -37,7 +37,7 @@ POSTGRES_DB=mydatabase
 1. Clone the repository:
 
     ```bash
-    git clone this repository
+    git clone https://github.com/Simon-Tinchurin/warehouse_api.git
     cd warehouse_api
     ```
 2. Create a .env file:
